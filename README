@@ -1,6 +1,6 @@
 EntityFramework.Cache is a caching mechanism for EntityFramework 4.1 and above. 
 
-The initial project was created by Sergey Barskiy and posted <a href="http://dotnetspeak.com/index.php/2011/03/entity-framework-code-first-caching/">here</a>.
+The initial project was created by Sergey Barskiy and posted here:http://dotnetspeak.com/index.php/2011/03/entity-framework-code-first-caching/
 
 Initial issue with this was the Expressions were not evaluated to get a variables value, so
 
@@ -17,4 +17,4 @@ var query = context.Products
 
 Would evaluate the same.
 
-HOCA posted a fix on StackOverflow to remedy this, but as of yet performance of this has not been tested.  The post is <a href="http://stackoverflow.com/questions/8275881/generating-cache-keys-from-iqueryable-for-caching-results-of-ef-code-first-queri">here</a>.
+HOCA posted a fix on StackOverflow to remedy this, but as of yet performance of this has not been tested.  The post is here: http://stackoverflow.com/questions/8275881/generating-cache-keys-from-iqueryable-for-caching-results-of-ef-code-first-queri
