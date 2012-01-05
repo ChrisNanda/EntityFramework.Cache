@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\EFCodeFirstCache.Test\bin\Debug\EFCodeFirstCache.Test.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\EFCodeFirstCache.Test\bin\Debug\EFCodeFirstCache.Test.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\EFCodeFirstCache.Test\bin\Debug\EFCodeFirstCache.Test.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\EFCodeFirstCache.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\EFCodeFirstCache.Test\obj\Debug\EFCodeFirstCache.Test.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\EFCodeFirstCache.Test\obj\Debug\EFCodeFirstCache.Test.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\EFCodeFirstCache.Test\bin\Debug\EFCodeFirstCacheExtensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\EFCodeFirstCache.Test\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\EFCodeFirstCache.Test\bin\Debug\EFCodeFirstCacheExtensions.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\EFCodeFirstCache.Test\bin\Debug\AppFabricCacheProvider.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\EFCodeFirstCache.Test\bin\Debug\AppFabricCacheProvider.pdb

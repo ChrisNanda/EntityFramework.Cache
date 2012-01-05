@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="86f929dc-b9e6-4aa0-8eac-86236f38a227" name="Administrator@SERGEYB-PC1 2011-03-19 09:57:19" runUser="SERGEYB-PC1\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ac6f50bc-339f-4a13-b837-9adf017d3ab5">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_SERGEYB-PC1 2011-03-19 09_57_19">
+      <DeploymentItem filename="C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\packages\EFCodeFirst.0.8\lib\EntityFramework.dll" />
+      <DeploymentItem filename="C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\EFCodeFirstCacheExtensions\bin\Debug\EFCodeFirstCacheExtensions.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-03-19T09:57:19.8665564-04:00" queuing="2011-03-19T09:57:19.8815572-04:00" start="2011-03-19T09:57:19.9065587-04:00" finish="2011-03-19T09:57:24.5938268-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetOrCreateCacheTest" storage="c:\users\administrator\documents\visual studio 2010\projects\efcodefirstcacheextensions\efcodefirstcache.test\bin\debug\efcodefirstcache.test.dll" id="fd331802-8e90-d66a-9907-d326cf9cb8ec">
+      <Execution id="ead46ee2-328f-43fd-b960-ba8ebf25bdf3" />
+      <TestMethod codeBase="C:/Users/Administrator/Documents/Visual Studio 2010/Projects/EFCodeFirstCacheExtensions/EFCodeFirstCache.Test/bin/Debug/EFCodeFirstCache.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="EFCodeFirstCache.Test.MemoryCacheProviderTest, EFCodeFirstCache.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetOrCreateCacheTest" />
+    </UnitTest>
+    <UnitTest name="GetOrCreateCacheWithExpirationTest" storage="c:\users\administrator\documents\visual studio 2010\projects\efcodefirstcacheextensions\efcodefirstcache.test\bin\debug\efcodefirstcache.test.dll" id="78cf9dec-73ed-ba0b-d631-8c38b21ebd7b">
+      <Execution id="128687cb-7e48-47ac-bb2e-898869ba3c29" />
+      <TestMethod codeBase="C:/Users/Administrator/Documents/Visual Studio 2010/Projects/EFCodeFirstCacheExtensions/EFCodeFirstCache.Test/bin/Debug/EFCodeFirstCache.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="EFCodeFirstCache.Test.MemoryCacheProviderTest, EFCodeFirstCache.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetOrCreateCacheWithExpirationTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="fd331802-8e90-d66a-9907-d326cf9cb8ec" executionId="ead46ee2-328f-43fd-b960-ba8ebf25bdf3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="78cf9dec-73ed-ba0b-d631-8c38b21ebd7b" executionId="128687cb-7e48-47ac-bb2e-898869ba3c29" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ead46ee2-328f-43fd-b960-ba8ebf25bdf3" testId="fd331802-8e90-d66a-9907-d326cf9cb8ec" testName="GetOrCreateCacheTest" computerName="SERGEYB-PC1" duration="00:00:00.2762690" startTime="2011-03-19T09:57:19.9295600-04:00" endTime="2011-03-19T09:57:20.5055929-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ead46ee2-328f-43fd-b960-ba8ebf25bdf3">
+    </UnitTestResult>
+    <UnitTestResult executionId="128687cb-7e48-47ac-bb2e-898869ba3c29" testId="78cf9dec-73ed-ba0b-d631-8c38b21ebd7b" testName="GetOrCreateCacheWithExpirationTest" computerName="SERGEYB-PC1" duration="00:00:04.0322977" startTime="2011-03-19T09:57:20.5105932-04:00" endTime="2011-03-19T09:57:24.5518244-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="128687cb-7e48-47ac-bb2e-898869ba3c29">
+    </UnitTestResult>
+  </Results>
+</TestRun>

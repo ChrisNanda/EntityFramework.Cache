@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2a6d00c3-8565-432a-9261-379c81750ee5" name="Administrator@SERGEYB-PC1 2011-03-20 08:52:52" runUser="SERGEYB-PC1\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ac6f50bc-339f-4a13-b837-9adf017d3ab5">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_SERGEYB-PC1 2011-03-20 08_52_52">
+      <DeploymentItem filename="C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\EFCodeFirstCacheExtensions\bin\Debug\EFCodeFirstCacheExtensions.dll" />
+      <DeploymentItem filename="C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\AppFabricCacheProvider\bin\Debug\AppFabricCacheProvider.dll" />
+      <DeploymentItem filename="C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\packages\EFCodeFirst.0.8\lib\EntityFramework.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-03-20T08:52:52.2111365-04:00" queuing="2011-03-20T08:53:00.9296352-04:00" start="2011-03-20T08:53:01.4296638-04:00" finish="2011-03-20T08:54:26.1975122-04:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="SERGEYB-PC1" outcome="Error" timestamp="2011-03-20T08:54:26.1925119-04:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="AppFabricCacheProviderGetOrCreateCacheTest" storage="c:\users\administrator\documents\visual studio 2010\projects\efcodefirstcacheextensions\efcodefirstcache.test\bin\debug\efcodefirstcache.test.dll" id="cde7d5e1-8996-aecd-119d-ffb9c6c792c2">
+      <Execution id="0515169d-a742-40e3-ba49-475a860719fb" />
+      <TestMethod codeBase="C:/Users/Administrator/Documents/Visual Studio 2010/Projects/EFCodeFirstCacheExtensions/EFCodeFirstCache.Test/bin/Debug/EFCodeFirstCache.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="EFCodeFirstCache.Test.AppFabricCacheProviderTest, EFCodeFirstCache.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AppFabricCacheProviderGetOrCreateCacheTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="cde7d5e1-8996-aecd-119d-ffb9c6c792c2" executionId="0515169d-a742-40e3-ba49-475a860719fb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="0515169d-a742-40e3-ba49-475a860719fb" testId="cde7d5e1-8996-aecd-119d-ffb9c6c792c2" testName="AppFabricCacheProviderGetOrCreateCacheTest" computerName="SERGEYB-PC1" duration="00:01:24.4448300" startTime="2011-03-20T08:53:01.7526822-04:00" endTime="2011-03-20T08:54:26.1975122-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0515169d-a742-40e3-ba49-475a860719fb">
+    </UnitTestResult>
+  </Results>
+</TestRun>
