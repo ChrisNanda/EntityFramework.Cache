@@ -3,3 +3,8 @@ C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExt
 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\EFCodeFirstCacheExtensions\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\EFCodeFirstCacheExtensions\obj\Debug\EFCodeFirstCacheExtensions.dll
 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\EFCodeFirstCacheExtensions\obj\Debug\EFCodeFirstCacheExtensions.pdb
+C:\Projects\EFCodeFirstCache\EFCodeFirstCacheExtensions\bin\Debug\EFCodeFirstCacheExtensions.dll
+C:\Projects\EFCodeFirstCache\EFCodeFirstCacheExtensions\bin\Debug\EFCodeFirstCacheExtensions.pdb
+C:\Projects\EFCodeFirstCache\EFCodeFirstCacheExtensions\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\EFCodeFirstCache\EFCodeFirstCacheExtensions\obj\Debug\EFCodeFirstCacheExtensions.dll
+C:\Projects\EFCodeFirstCache\EFCodeFirstCacheExtensions\obj\Debug\EFCodeFirstCacheExtensions.pdb

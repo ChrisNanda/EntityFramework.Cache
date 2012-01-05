@@ -76,11 +76,15 @@ namespace EFCodeFirstCacheExtensions
             return dictionary.TryRemove(key, out item);
         }
 
-        private static string GetKey<T>(IQueryable<T> query)
-        {
-            string key = string.Concat(query.ToString(), "\n\r", 
-                typeof(T).AssemblyQualifiedName);
-            return key;
-        }
+		public static string GetKey<T>(IQueryable<T> query)
+		{
+			var keyBuilder = new StringBuilder(query.ToString());
+			var queryParamVisitor = new QueryParameterVisitor(keyBuilder);
+			queryParamVisitor.GetQueryParameters(query.Expression);
+			keyBuilder.Append("\n\r");
+			keyBuilder.Append(typeof(T).AssemblyQualifiedName);
+
+			return keyBuilder.ToString();
+		}
     }
 }
