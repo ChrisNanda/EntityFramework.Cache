@@ -1,7 +1,0 @@
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\AppFabricCacheProvider\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\AppFabricCacheProvider\bin\Debug\AppFabricCacheProvider.dll
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\AppFabricCacheProvider\bin\Debug\AppFabricCacheProvider.pdb
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\AppFabricCacheProvider\bin\Debug\EFCodeFirstCacheExtensions.dll
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\AppFabricCacheProvider\bin\Debug\EFCodeFirstCacheExtensions.pdb
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\AppFabricCacheProvider\obj\Debug\AppFabricCacheProvider.dll
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EFCodeFirstCacheExtensions\AppFabricCacheProvider\obj\Debug\AppFabricCacheProvider.pdb
